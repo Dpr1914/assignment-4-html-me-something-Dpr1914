@@ -1,1 +1,31 @@
-/* Write your CSS here! */
+
+#mainHeading {
+    color: red;
+    margin: 50px;
+    border-style: solid ;
+
+    
+}
+body {
+    margin: 8px;
+    border-style: dotted dashed solid double;
+    color:rgba(29, 29, 207, 0.787);
+    background: gold
+}
+.funParagraph {
+    background-color: rgb(0, 255, 0);
+    font-display:rgb(255, 255, 255);
+    padding: 2px;
+    border-style: double;
+    
+    }
+#list-heading {
+margin-left: 350px
+}
+p {
+    color:blue
+    
+}
+h2 {
+    border-style: outset;
+}
